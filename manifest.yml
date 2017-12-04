@@ -1,0 +1,9 @@
+---
+applications:
+- name: capgemini-cloud-choice
+  memory: 512M
+  instances: 1
+  path: bin\Release\PublishOutput
+  buildpack: hwc_buildpack
+  stack: windows2012R2
+

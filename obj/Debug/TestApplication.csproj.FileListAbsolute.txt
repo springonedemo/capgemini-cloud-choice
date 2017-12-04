@@ -1,0 +1,500 @@
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\ApplicationInsights.config
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\csc.exe
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\csc.exe.config
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\csc.rsp
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\csi.exe
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\csi.exe.config
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\csi.rsp
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.AppContext.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Console.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Threading.Thread.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\vbc.exe
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\vbc.exe.config
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\vbc.rsp
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\TestApplication.dll.config
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\TestApplication.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\TestApplication.pdb
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Antlr3.Runtime.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\EntityFramework.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AI.Web.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Newtonsoft.Json.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Owin.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.Helpers.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.Http.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.Mvc.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.Optimization.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.Razor.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.WebPages.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\WebGrease.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.Helpers.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.Mvc.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.Optimization.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.Razor.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.WebPages.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Antlr3.Runtime.pdb
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Newtonsoft.Json.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.Http.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\EntityFramework.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\bin\Microsoft.AI.Web.xml
+C:\Users\merrao\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\merrao\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\merrao\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.dll
+C:\Users\merrao\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+D:\TestApplication\TestApplication\bin\ApplicationInsights.config
+D:\TestApplication\TestApplication\bin\roslyn\csc.exe
+D:\TestApplication\TestApplication\bin\roslyn\csc.exe.config
+D:\TestApplication\TestApplication\bin\roslyn\csc.rsp
+D:\TestApplication\TestApplication\bin\roslyn\csi.exe
+D:\TestApplication\TestApplication\bin\roslyn\csi.exe.config
+D:\TestApplication\TestApplication\bin\roslyn\csi.rsp
+D:\TestApplication\TestApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TestApplication\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TestApplication\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TestApplication\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TestApplication\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TestApplication\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TestApplication\TestApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TestApplication\TestApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TestApplication\TestApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TestApplication\TestApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TestApplication\TestApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.AppContext.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Console.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Diagnostics.Process.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.IO.Compression.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.IO.Pipes.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Security.Claims.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Threading.Thread.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.ValueTuple.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Xml.XPath.dll
+D:\TestApplication\TestApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TestApplication\TestApplication\bin\roslyn\vbc.exe
+D:\TestApplication\TestApplication\bin\roslyn\vbc.exe.config
+D:\TestApplication\TestApplication\bin\roslyn\vbc.rsp
+D:\TestApplication\TestApplication\bin\roslyn\VBCSCompiler.exe
+D:\TestApplication\TestApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\TestApplication\TestApplication\bin\TestApplication.dll.config
+D:\TestApplication\TestApplication\bin\TestApplication.dll
+D:\TestApplication\TestApplication\bin\TestApplication.pdb
+D:\TestApplication\TestApplication\bin\Antlr3.Runtime.dll
+D:\TestApplication\TestApplication\bin\EntityFramework.dll
+D:\TestApplication\TestApplication\bin\EntityFramework.SqlServer.dll
+D:\TestApplication\TestApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TestApplication\TestApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\TestApplication\TestApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TestApplication\TestApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TestApplication\TestApplication\bin\Microsoft.AI.Web.dll
+D:\TestApplication\TestApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\TestApplication\TestApplication\bin\Microsoft.ApplicationInsights.dll
+D:\TestApplication\TestApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TestApplication\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TestApplication\TestApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TestApplication\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.dll
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.dll
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TestApplication\TestApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\TestApplication\TestApplication\bin\Newtonsoft.Json.dll
+D:\TestApplication\TestApplication\bin\Owin.dll
+D:\TestApplication\TestApplication\bin\System.Net.Http.Formatting.dll
+D:\TestApplication\TestApplication\bin\System.Web.Helpers.dll
+D:\TestApplication\TestApplication\bin\System.Web.Http.dll
+D:\TestApplication\TestApplication\bin\System.Web.Http.WebHost.dll
+D:\TestApplication\TestApplication\bin\System.Web.Mvc.dll
+D:\TestApplication\TestApplication\bin\System.Web.Optimization.dll
+D:\TestApplication\TestApplication\bin\System.Web.Razor.dll
+D:\TestApplication\TestApplication\bin\System.Web.WebPages.Deployment.dll
+D:\TestApplication\TestApplication\bin\System.Web.WebPages.dll
+D:\TestApplication\TestApplication\bin\System.Web.WebPages.Razor.dll
+D:\TestApplication\TestApplication\bin\WebGrease.dll
+D:\TestApplication\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TestApplication\TestApplication\bin\System.Web.Helpers.xml
+D:\TestApplication\TestApplication\bin\System.Web.Mvc.xml
+D:\TestApplication\TestApplication\bin\System.Web.Optimization.xml
+D:\TestApplication\TestApplication\bin\System.Web.Razor.xml
+D:\TestApplication\TestApplication\bin\System.Web.WebPages.xml
+D:\TestApplication\TestApplication\bin\System.Web.WebPages.Deployment.xml
+D:\TestApplication\TestApplication\bin\System.Web.WebPages.Razor.xml
+D:\TestApplication\TestApplication\bin\Antlr3.Runtime.pdb
+D:\TestApplication\TestApplication\bin\Newtonsoft.Json.xml
+D:\TestApplication\TestApplication\bin\System.Net.Http.Formatting.xml
+D:\TestApplication\TestApplication\bin\System.Web.Http.xml
+D:\TestApplication\TestApplication\bin\System.Web.Http.WebHost.xml
+D:\TestApplication\TestApplication\bin\EntityFramework.xml
+D:\TestApplication\TestApplication\bin\EntityFramework.SqlServer.xml
+D:\TestApplication\TestApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TestApplication\TestApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TestApplication\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.xml
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.xml
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TestApplication\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TestApplication\TestApplication\bin\Microsoft.ApplicationInsights.xml
+D:\TestApplication\TestApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\TestApplication\TestApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TestApplication\TestApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\TestApplication\TestApplication\bin\Microsoft.AI.Web.xml
+D:\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+D:\TestApplication\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+D:\TestApplication\TestApplication\obj\Debug\TestApplication.dll
+D:\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+D:\MVC Test Application\TestApplication\bin\ApplicationInsights.config
+D:\MVC Test Application\TestApplication\bin\roslyn\csc.exe
+D:\MVC Test Application\TestApplication\bin\roslyn\csc.exe.config
+D:\MVC Test Application\TestApplication\bin\roslyn\csc.rsp
+D:\MVC Test Application\TestApplication\bin\roslyn\csi.exe
+D:\MVC Test Application\TestApplication\bin\roslyn\csi.exe.config
+D:\MVC Test Application\TestApplication\bin\roslyn\csi.rsp
+D:\MVC Test Application\TestApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC Test Application\TestApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC Test Application\TestApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.AppContext.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Console.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Diagnostics.Process.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.IO.Compression.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.IO.Pipes.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Security.Claims.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Threading.Thread.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.ValueTuple.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Xml.XPath.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MVC Test Application\TestApplication\bin\roslyn\vbc.exe
+D:\MVC Test Application\TestApplication\bin\roslyn\vbc.exe.config
+D:\MVC Test Application\TestApplication\bin\roslyn\vbc.rsp
+D:\MVC Test Application\TestApplication\bin\roslyn\VBCSCompiler.exe
+D:\MVC Test Application\TestApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC Test Application\TestApplication\bin\TestApplication.dll.config
+D:\MVC Test Application\TestApplication\bin\TestApplication.dll
+D:\MVC Test Application\TestApplication\bin\TestApplication.pdb
+D:\MVC Test Application\TestApplication\bin\Antlr3.Runtime.dll
+D:\MVC Test Application\TestApplication\bin\EntityFramework.dll
+D:\MVC Test Application\TestApplication\bin\EntityFramework.SqlServer.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.AI.Web.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.ApplicationInsights.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC Test Application\TestApplication\bin\Newtonsoft.Json.dll
+D:\MVC Test Application\TestApplication\bin\Owin.dll
+D:\MVC Test Application\TestApplication\bin\System.Net.Http.Formatting.dll
+D:\MVC Test Application\TestApplication\bin\System.Web.Helpers.dll
+D:\MVC Test Application\TestApplication\bin\System.Web.Http.dll
+D:\MVC Test Application\TestApplication\bin\System.Web.Http.WebHost.dll
+D:\MVC Test Application\TestApplication\bin\System.Web.Mvc.dll
+D:\MVC Test Application\TestApplication\bin\System.Web.Optimization.dll
+D:\MVC Test Application\TestApplication\bin\System.Web.Razor.dll
+D:\MVC Test Application\TestApplication\bin\System.Web.WebPages.Deployment.dll
+D:\MVC Test Application\TestApplication\bin\System.Web.WebPages.dll
+D:\MVC Test Application\TestApplication\bin\System.Web.WebPages.Razor.dll
+D:\MVC Test Application\TestApplication\bin\WebGrease.dll
+D:\MVC Test Application\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC Test Application\TestApplication\bin\System.Web.Helpers.xml
+D:\MVC Test Application\TestApplication\bin\System.Web.Mvc.xml
+D:\MVC Test Application\TestApplication\bin\System.Web.Optimization.xml
+D:\MVC Test Application\TestApplication\bin\System.Web.Razor.xml
+D:\MVC Test Application\TestApplication\bin\System.Web.WebPages.xml
+D:\MVC Test Application\TestApplication\bin\System.Web.WebPages.Deployment.xml
+D:\MVC Test Application\TestApplication\bin\System.Web.WebPages.Razor.xml
+D:\MVC Test Application\TestApplication\bin\Antlr3.Runtime.pdb
+D:\MVC Test Application\TestApplication\bin\Newtonsoft.Json.xml
+D:\MVC Test Application\TestApplication\bin\System.Net.Http.Formatting.xml
+D:\MVC Test Application\TestApplication\bin\System.Web.Http.xml
+D:\MVC Test Application\TestApplication\bin\System.Web.Http.WebHost.xml
+D:\MVC Test Application\TestApplication\bin\EntityFramework.xml
+D:\MVC Test Application\TestApplication\bin\EntityFramework.SqlServer.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.ApplicationInsights.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\MVC Test Application\TestApplication\bin\Microsoft.AI.Web.xml
+D:\MVC Test Application\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+D:\MVC Test Application\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+D:\MVC Test Application\TestApplication\obj\Debug\TestApplication.dll
+D:\MVC Test Application\TestApplication\obj\Debug\TestApplication.pdb
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\ApplicationInsights.config
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\csc.exe
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\csc.exe.config
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\csc.rsp
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\csi.exe
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\csi.exe.config
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\csi.rsp
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.AppContext.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Console.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Diagnostics.Process.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.IO.Compression.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.IO.Pipes.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Security.Claims.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Threading.Thread.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.ValueTuple.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Xml.XPath.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\vbc.exe
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\vbc.exe.config
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\vbc.rsp
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\VBCSCompiler.exe
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\TestApplication.dll.config
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\TestApplication.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\TestApplication.pdb
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Antlr3.Runtime.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\EntityFramework.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\EntityFramework.SqlServer.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AI.Web.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.ApplicationInsights.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Newtonsoft.Json.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Owin.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Net.Http.Formatting.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.Helpers.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.Http.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.Http.WebHost.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.Mvc.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.Optimization.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.Razor.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.WebPages.Deployment.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.WebPages.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.WebPages.Razor.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\WebGrease.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.Helpers.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.Mvc.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.Optimization.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.Razor.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.WebPages.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.WebPages.Deployment.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.WebPages.Razor.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Antlr3.Runtime.pdb
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Newtonsoft.Json.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Net.Http.Formatting.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.Http.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\System.Web.Http.WebHost.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\EntityFramework.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\EntityFramework.SqlServer.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.ApplicationInsights.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\bin\Microsoft.AI.Web.xml
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\obj\Debug\TestApplication.dll
+D:\SpringOne-Apps\Asp.net Framework 4.6\TestApplication\obj\Debug\TestApplication.pdb
